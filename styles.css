@@ -1,0 +1,23 @@
+.square {
+   display: flex;
+   align-items: center;
+    justify-content: center;
+   background: black;
+   color:transparent;
+    width: 100px;
+    height: 100px;
+    margin: 2em;
+   
+
+  }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  
+  
+  .square:hover {
+    color: white;
+  }
